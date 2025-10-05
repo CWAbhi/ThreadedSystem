@@ -12,14 +12,11 @@
 - Timestamp Formatting**: Human-readable timestamps (e.g., "2h ago", "3d ago")
 
 ### Advanced Features 
-- ** Basic Authentication**: Register/Login with JWT tokens
-- ** Pagination**: Load comments in pages for better performance
-- ** Load More Replies**: Lazily load additional replies on demand
-- ** Enhanced UI**: Beautiful heart icons with filled/unfilled states
-- ** Thread Visualization**: Clear connection lines between parent/child comments
-- ** State Management**: Proper loading states and error handling
-- ** User Profiles**: Avatar generation and user identification
-- ** Mobile Optimized**: Responsive design for all screen sizes
+-  Basic Authentication**: Register/Login with JWT tokens
+-  Pagination**: Load comments in pages for better performance
+-  Load More Replies**: Lazily load additional replies on demand
+-  User Profiles**: Avatar generation and user identification
+-  Mobile Optimized**: Responsive design for all screen sizes
 
 ## 🛠 Tech Stack
 
